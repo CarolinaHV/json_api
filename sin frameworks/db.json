@@ -1,0 +1,24 @@
+{
+    "data":[
+       {
+          "name":"Juanito",
+          "edad":48,
+          "frase":"ser o no ser",
+          "casado":true,
+          "votos":{
+              "positivos": 22,
+              "negativos": 7
+          }
+       },
+       {
+          "name":"Florentina",
+          "edad":49,
+          "frase":"Que la fuerza te acompañe",
+          "casado":false,
+          "votos":{
+            "positivos": 15,
+            "negativos": 10
+          }
+       }
+    ]
+ }
